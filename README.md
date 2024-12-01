@@ -1,16 +1,15 @@
 # DSA Questions Repository  
 
 This repository contains various Data Structures and Algorithms (DSA) problems I practice to ace my Interviews.
-## Folder Structure  
-
-1. **Capgemini**  
+ 
+**Capgemini**  
    1. CountChar  
    2. MoveHashToFront  
 
-2. **Infosys**  
+**Infosys**  
    1. ChessPiecePlacement  
 
-3. **Leetcode150**  
+**Leetcode150**  
    1. BuyandSell1  
    2. MajorityElement  
    3. MergeSortedArray  
@@ -19,7 +18,7 @@ This repository contains various Data Structures and Algorithms (DSA) problems I
    6. RemoveElement  
    7. RotateArray  
 
-4. **PracticeQuestions1**  
+**PracticeQuestions1**  
    1. Array_Subarray  
    2. Copy_Cat  
    3. Factorial  
@@ -50,7 +49,7 @@ This repository contains various Data Structures and Algorithms (DSA) problems I
    28. isPalindrome  
    29. recursionBasic  
 
-5. **Stack**  
+**Stack**  
    1. StackUsingArray  
 
 ## Getting Started  
